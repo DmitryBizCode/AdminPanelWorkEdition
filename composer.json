@@ -1,0 +1,15 @@
+{
+    "name": "tage/admin-panel-work-edition",
+    "autoload": {
+        "psr-4": {
+            "Tage\\AdminPanelWorkEdition\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Beznosiuk",
+            "email": "Dmitrybeznosiukcode@gmail.com"
+        }
+    ],
+    "require": {}
+}
