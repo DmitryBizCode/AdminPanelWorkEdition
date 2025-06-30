@@ -2,7 +2,7 @@
     "name": "tage/admin-panel-work-edition",
     "autoload": {
         "psr-4": {
-            "Tage\\AdminPanelWorkEdition\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
